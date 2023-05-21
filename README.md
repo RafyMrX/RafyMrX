@@ -1,5 +1,5 @@
 <a href="#"><img src="https://github.com/RafyMrX/RafyMrX/blob/main/banner-git.png" width="900"></a>
-
+> Note: THE MOST DIFFICULT CODE TO LEARN IS THE FEMALE CODE :laughing: 
 <img align='right' src='https://github.com/RafyMrX/RafyMrX/blob/main/octo.gif' width='150'>
 
 
@@ -7,7 +7,7 @@
 
 My full name is Ahmad Rafi Akbar Putra Hamzah, i am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Surabaya)](https://www.dinamika.ac.id/) with a GPA 3,76. I am advanced in `Web Development` with more than 3 years of experience. currently I'm learning `App Development` with Flutter. I also have expertise in content creators such as making cinematic videos, and making designs for advertising needs. to meet advertising needs I also study social media ads (Facebook, Instagram, Tiktok), [Google Ads](https://ads.google.com/), [Google Analytics](https://analytics.google.com/), [Google My Business](https://www.google.com/business/) and [Google Trends](https://trends.google.com/trends/). I have a vision to solve local problems with the help of technology.
 
-> Note: THE MOST DIFFICULT CODE TO LEARN IS THE FEMALE CODE :laughing: 
+
 
 ## 🔧 Technologies & Tools
  <a href="https://developer.android.com/studio/">
