@@ -1,12 +1,5 @@
 <a href="#"><img src="https://github.com/RafyMrX/RafyMrX/blob/main/banner-git.png" width="900"></a><br><br>
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafy.works) 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafy.works@gmail.com) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafy-works/) 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafy_works) 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raff.env/)
-[![](https://img.shields.io/badge/Facebook-0B84EE?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafy.works) 
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBRh4l8lbDp182PvKi4siZQ)
+
 <img align='right' src='https://github.com/RafyMrX/RafyMrX/blob/main/octo.gif' width='150'>
 
 
@@ -53,6 +46,15 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 
 ## 📊 My Github Stats
 <a href="https://github.com/RafyMrX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RafyMrX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rafy's github stats" /></a>  <a href="https://github.com/RafyMrX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafyMrX&layout=compact&theme=buefy&hide_border=true" /></a> 
+## Get in touch with me
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) 
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafy.works) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafy.works@gmail.com) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafy-works/) 
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafy_works) 
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raff.env/)
+[![](https://img.shields.io/badge/Facebook-0B84EE?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafy.works) 
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBRh4l8lbDp182PvKi4siZQ)
 
 
 
