@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/RafyMrX/RafyMrX/blob/main/banner-git.png" width="900"></a><br><br>
+<a href="#"><img src="https://github.com/RafyMrX/RafyMrX/blob/main/banner-git.png" width="900"></a>
 
 <img align='right' src='https://github.com/RafyMrX/RafyMrX/blob/main/octo.gif' width='150'>
 
