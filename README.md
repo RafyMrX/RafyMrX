@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/RafyMrX/aboutme/blob/main/banner-git.png" width="900"></a><br><br>
+<a href="#"><img src="https://github.com/RafyMrX/RafyMrX/blob/main/banner-git.png" width="900"></a><br><br>
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafy.works) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafy.works@gmail.com) 
@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raff.env/)
 [![](https://img.shields.io/badge/Facebook-0B84EE?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafy.works) 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBRh4l8lbDp182PvKi4siZQ)
-<img align='right' src='https://github.com/RafyMrX/aboutme/blob/main/octo.gif' width='150'>
+<img align='right' src='https://github.com/RafyMrX/RafyMrX/blob/main/octo.gif' width='150'>
 
 
 # Hello, guys!  <img src="https://github.com/RafyMrX/aboutme/blob/main/wave.gif" width="30px">
