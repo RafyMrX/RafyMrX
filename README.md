@@ -24,8 +24,8 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
  <a href="https://laravel.com/">
   <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://laravel-livewire.com/img/twitter.png" />
   
- <a href="https://vuejs.org/">
-  <img align="left" alt="Vue" title="Vue" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
+<!--  <a href="https://vuejs.org/">
+  <img align="left" alt="Vue" title="Vue" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" /> -->
 
 </a>
 <a href="https://www.php.net/">
