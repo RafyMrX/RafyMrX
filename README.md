@@ -53,7 +53,13 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 <br><br>
 
 ## 📊 My Github Stats
-<a href="https://github.com/RafyMrX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RafyMrX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rafy's github stats" /></a>  <a href="https://github.com/RafyMrX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafyMrX&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/RafyMrX/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafyMrX&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/RafyMrX/RafyMrX.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafyMrX&repo=RafyMrX.github.io&theme=buefy" />
+</a>
+ 
 ## Get in touch with me
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafymrx.github.io/) 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafy.works) 
