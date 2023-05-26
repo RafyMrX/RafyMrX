@@ -53,12 +53,9 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 <br><br>
 
 ## 📊 My Github Stats
-<a href="https://github.com/RafyMrX/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafyMrX&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/RafyMrX/RafyMrX.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafyMrX&repo=RafyMrX.github.io&theme=buefy" />
-</a>
+
+<a href="https://github.com/RafyMrX/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=RafyMrX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafyMrX&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
  
 ## Get in touch with me
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafymrx.github.io/) 
