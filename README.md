@@ -5,7 +5,7 @@
 
 # Hello, guys!  <img src="https://github.com/RafyMrX/RafyMrX/blob/main/wave.gif" width="30px">
 
-I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Surabaya)](https://www.dinamika.ac.id/) with a GPA 3,76. I am advanced in `Web Development` with more than 4 years  in developing several websites such as E-Commerce, Company Profile, Point of Sale, and E-Recruitment with decision support systems etc. I also have expertise in content creators such as making cinematic videos, and making designs for advertising needs. to meet advertising needs I also study social media ads (Facebook, Instagram, Tiktok), [Google Ads](https://ads.google.com/), [Google Analytics](https://analytics.google.com/), [Google My Business](https://www.google.com/business/) and [Google Trends](https://trends.google.com/trends/). I have a vision to solve local problems with the help of technology.
+I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Surabaya)](https://www.dinamika.ac.id/) with a GPA 3,76. I am advanced in `Web Development` with more than 4 years  in developing several websites such as E-Commerce, Company Profile, Point of Sale, E-Attendance, and E-Recruitment with decision support systems etc. I also have expertise in content creators such as making cinematic videos, and making designs for advertising needs. to meet advertising needs I also study social media ads (Facebook, Instagram, Tiktok), [Google Ads](https://ads.google.com/), [Google Analytics](https://analytics.google.com/), [Google My Business](https://www.google.com/business/) and [Google Trends](https://trends.google.com/trends/). I have a vision to solve local problems with the help of technology.
 
 
 
