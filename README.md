@@ -40,6 +40,11 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
   <img align="left" alt="bootstrap" title="Boostrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
 </a>
 
+<a href="https://tailwindcss.com/">
+  <img align="left" alt="Tailwindcss" title="Tailwindcss" width="40px" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images/_800x418_crop_center-center_82_none/tailwind-thumb.jpg?mtime=1609771799" />
+</a>
+
+
 
 <a href="https://www.adobe.com/">
   <img align="left" alt="adobe ps" title="adobe ps" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" />
