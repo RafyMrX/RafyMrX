@@ -29,12 +29,6 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 <a href="https://www.php.net/">
   <img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/php-2038871-1720084.png" />
 </a>
-<a href="https://dart.dev/">
-  <img align="left" alt="Git" title="Git" width="30px" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" />
-</a>
-<a href="https://flutter.dev/">
-  <img align="left" alt="Flutter" title="Flutter" width="27px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" />
-</a>
 <a href="https://git-scm.com/">
   <img align="left" alt="Git" title="Git" width="27px" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" />
 </a>
