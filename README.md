@@ -37,7 +37,7 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 </a>
 
 <a href="https://getbootstrap.com/">
-  <img align="left" alt="bootstrap" title="Boostrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
+  <img align="left" alt="bootstrap" title="Boostrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
 </a>
 
 
