@@ -10,9 +10,7 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 
 
 ## 🔧 Technologies & Tools
- <a href="https://developer.android.com/studio/">
-  <img align="left" alt="Android Studio" title="AndroidStudio" width="30px" src="https://img.icons8.com/fluency/344/android-studio--v2.png" />
-</a>
+
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" />
 </a>
