@@ -41,7 +41,7 @@ I am a `graduate` of Information Systems at [Universitas Dinamika (Stikom Suraba
 </a>
 
 <a href="https://tailwindcss.com/">
-  <img align="left" alt="Tailwindcss" title="Tailwindcss" width="40px" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images/_800x418_crop_center-center_82_none/tailwind-thumb.jpg?mtime=1609771799" />
+  <img align="left" alt="Tailwindcss" title="Tailwindcss" width="70px" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images/_800x418_crop_center-center_82_none/tailwind-thumb.jpg?mtime=1609771799" />
 </a>
 
 
